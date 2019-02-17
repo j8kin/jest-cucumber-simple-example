@@ -1,0 +1,24 @@
+{
+  "name": "jest-cucumber-simple-example",
+  "version": "1.0.0",
+  "description": "Simple example of test with jest and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j8kin/jest-cucumber-simple-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j8kin/jest-cucumber-simple-example/issues"
+  },
+  "homepage": "https://github.com/j8kin/jest-cucumber-simple-example#readme",
+  "dependencies": {
+    "cucumber": "^5.1.0",
+    "jest": "^24.1.0"
+  }
+}
