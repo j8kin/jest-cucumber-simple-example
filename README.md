@@ -11,6 +11,6 @@ Disclamer:
 	  independent steps outside the jest-scenarios. 
 
 Usages:	  
-"""
+```
 	npm run test
-"""
+```
